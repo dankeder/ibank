@@ -76,6 +76,12 @@ See [Fio Banka API](http://www.fio.cz/bank-services/internetbanking-api) on how
 to generate the authorization token.
 
 
+Licence
+-------
+
+MIT Licence
+
+
 Author
 ------
 
